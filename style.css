@@ -1,0 +1,126 @@
+header {
+	position: fixed;
+	padding-top: 20px;
+	background-color: #f4f5f5;
+	position: fixed;
+}
+
+.first-nav, .first-nav ul, li, a, h2, {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+a, h2 {
+	font-size: 1.5em;
+}
+
+h2 {
+	position: relative;
+	left: 20px;
+}
+
+.first-nav {
+	float: right;
+	position: relative;
+	right: 20px;
+}
+
+.first-nav ul {
+
+}
+
+/*Section*/
+
+form {
+	vertical-align: middle;
+	margin-top: 3.5px;
+}
+
+label {
+	margin-top: ;
+}
+
+header {
+	position: fixed;
+	padding: 20px 0;
+	width: 100%;
+	background-color: #f4f5f5;
+	position: fixed;
+}
+
+.first-nav, .first-nav ul, li, a, h2{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+a, h2 {
+	font-size: 1.5em;
+}
+
+.first-nav {
+	float: right;
+}
+/*Section*/
+main {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+
+.searchBar {
+	margin-top: 2px;
+	vertical-align: middle;
+
+}
+
+form {
+	vertical-align: middle;
+
+}
+.search-icon {
+	width: 18px;
+	vertical-align: middle;
+	outline: 0.5px solid gray;
+	margin-top: 1px;
+}
+
+
+
+label {
+	margin-top: ;
+}
+
+.second-navbar{
+	margin-top: 50px;	
+	margin-bottom: 8px;
+}
+
+.second-navbar ul {	
+	display: inline-block;
+}
+
+.second-navbar ul > li {
+	padding: 0.5em;
+	font-size: 0.75em;
+	outline: 1px solid #a6afaf;
+}
+
+.list-result-li {
+	display: block;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.date, .location {
+	display: inline-block;
+	font-size: 20px;
+	vertical-align: middle;
+}
+
+.result-description {
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
